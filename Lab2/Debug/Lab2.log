@@ -1,0 +1,6 @@
+﻿  Hero.cpp
+D:\Progr\Projects\AiPO\2sem\Lab2\Lab2\Hero.h(63,41): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\Progr\Projects\AiPO\2sem\Lab2\Lab2\Hero.cpp(50,20): warning C4018: '<': signed/unsigned mismatch
+D:\Progr\Projects\AiPO\2sem\Lab2\Lab2\Hero.cpp(83,18): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+D:\Progr\Projects\AiPO\2sem\Lab2\Lab2\Hero.cpp(142,20): warning C4018: '<': signed/unsigned mismatch
+  Lab2.vcxproj -> D:\Progr\Projects\AiPO\2sem\Lab2\Debug\Lab2.exe
